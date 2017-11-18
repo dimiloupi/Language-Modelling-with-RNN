@@ -1,3 +1,3 @@
 ## Language Modelling with Reccurent Neural Network
 
-A simple RNN model for  a sentence generation task.
+A basic RNN architecture for sentence generation task.
